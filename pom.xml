@@ -54,7 +54,7 @@
                  </execution>
              </executions>
              <configuration>
-             <repository>mahesh0790/tomcat:9.0</repository>
+             <repository>mahesh0790/tomcat</repository>
                  <tag>${project.version}</tag>
              </configuration>
                 </plugin>
