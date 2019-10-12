@@ -52,4 +52,11 @@
 </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>DESKTOP-LRJH3AA-releases</name>
+        <url>http://localhost:8081/artifactory/libs-release-local</url>
+    </repository>
+</distributionManagement>
 </project>
